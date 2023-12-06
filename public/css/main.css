@@ -10,7 +10,7 @@
     }  
 /* el banner*/
 .banner{
-    background-image: url(".public/img/foto1.jpg") ;
+    background-image: url (".public/img/foto1.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
     width: 80%;
