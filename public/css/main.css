@@ -10,11 +10,7 @@
     }  
 /* el banner*/
 .banner{
-    background-image: url (".public/img/foto1.jpg") ;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 80%;
-    height: 80vh;
+
 }
 .titulo{
     font-size: 60px;
@@ -26,11 +22,7 @@ h2 {
     text-align: center;
     color: blue;
         
-    }
-p {
-    color: blueviolet;
-    background-color: yellow;
-            }
+    }        
 /* galeria de fotos*/
 
 img{
